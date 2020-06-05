@@ -1,0 +1,33 @@
+The genes in your body’s cells play an important role in your health — indeed, a defective gene or genes can make you sick.
+
+Recognizing this, scientists have been working for decades on ways to modify genes or replace faulty genes with healthy ones to treat, cure or prevent a disease or medical condition.
+
+Now this research on gene therapy is finally paying off. Since August 2017, the U.S. Food and Drug Administration has approved three gene therapy products, the first of their kind.
+
+Two of them reprogram a patient’s own cells to attack a deadly cancer, and the most recent approved product targets a disease caused by mutations in a specific gene.
+What Are Cells and Genes? How Do They Interact?
+
+What is the relationship between cells and genes?f
+
+Cells are the basic building blocks of all living things; the human body is composed of trillions of them. Within our cells there are thousands of genes that provide the information for the production of specific proteins and enzymes that make muscles, bones, and blood, which in turn support most of our body’s functions, such as digestion, making energy, and growing.
+How Gene Therapy Works
+How Gene Therapy Works
+
+Gene therapy can be performed both inside and outside the body. This infographic illustrates in simple terms how gene therapy works inside the body. Download a high-resolution version from Flickr.External Link Disclaimer
+
+Sometimes the whole or part of a gene is defective or missing from birth, or a gene can change or mutate during adult life. Any of these variations can disrupt how proteins are made, which can contribute to health problems or diseases.
+
+In gene therapy, scientists can do one of several things depending on the problem that is present. They can replace a gene that causes a medical problem with one that doesn’t, add genes to help the body to fight or treat disease, or turn off genes that are causing problems.
+
+In order to insert new genes directly into cells, scientists use a vehicle called a “vector” which is genetically engineered to deliver the gene.
+
+Viruses, for example, have a natural ability to deliver genetic material into cells, and therefore, can be used as vectors. Before a virus can be used to carry therapeutic genes into human cells, however, it is modified to remove its ability to cause an infectious disease.
+
+Gene therapy can be used to modify cells inside or outside the body. When it’s done inside the body, a doctor will inject the vector carrying the gene directly into the part of the body that has defective cells.
+
+In gene therapy that is used to modify cells outside of the body, blood, bone marrow, or another tissue can be taken from a patient, and specific types of cells can be separated out in the lab. The vector containing the desired gene is introduced into these cells. The cells are left, to multiply in the laboratory, and are then injected back into the patient, where they continue to multiply and eventually produce the desired effect.
+Before a Gene Therapy Can Go On the Market …
+
+Before a company can market a gene therapy product for use in humans, the gene therapy product has to be tested for safety and effectiveness so that FDA scientists can consider whether the risks of the therapy are acceptable in light of the benefits.
+
+Gene therapy holds the promise to transform medicine and create options for patients who are living with difficult, and even incurable, diseases. As scientists continue to make great strides in this therapy, FDA is committed to helping speed up development by prompt review of groundbreaking treatments that have the potential to save lives.
